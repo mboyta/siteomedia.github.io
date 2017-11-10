@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem on Odev</title>
+    <link>https://example.org/categories/lorem/</link>
+    <description>Recent content in Lorem on Odev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Omedia</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>https://example.org/blog/2015/10/10/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <description>L&amp;rsquo;éducation reste un objectif de première importance pour les gouvernements successifs, car la population est extrêmement jeune.
+Le gouvernement sénégalais a libéralisé en partie le système éducatif. Plusieurs écoles et universités privées ont vu le jour et ont un véritable succès tant la demande est forte. Le gouvernement n&amp;rsquo;est pas en mesure de superviser et labelliser ces différents établissements.
+Il faut y ajouter la place croissante des nouvelles technologies, cependant très inégalement diffusées.</description>
+    </item>
+    
+  </channel>
+</rss>
